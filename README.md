@@ -1,7 +1,7 @@
-# Own Company Template Website - Frontend
+# Own Company Website Template - Frontend
 
 A customizable frontend template for company websites, designed to streamline setup and styling for corporate web applications.
-- check it out : **https://abhaysgithub.github.io/own-company-template-website-frontend/**
+- check it out : **https://abhaysgithub.github.io/own-company-website-template-frontend/**
 
 ## Introduction
 
@@ -18,4 +18,4 @@ This project is a frontend template for company websites, providing a foundation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhaysgithub/own-company-template-website-frontend.git
+   git clone https://github.com/abhaysgithub/own-company-website-template-frontend.git
